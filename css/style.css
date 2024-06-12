@@ -622,7 +622,7 @@ p {
 .banner-txt a {
     padding: 14px 20px;
     background: #0f0a22;
-    color: black;
+    color: white;
     font-family: pb;
     font-size: 18px;
     position: relative;
@@ -854,7 +854,7 @@ p {
 
 .over-item h3 {
     font-size: 24px;
-    color: black;
+    color: white;
     font-family: pb;
     padding: 20px 0;
     position: relative;
@@ -862,7 +862,7 @@ p {
 
 .over-item p {
     font-size: 17px;
-    color: #000;
+    color: white;
     line-height: 26px;
 }
 
@@ -871,7 +871,7 @@ p {
 }
 
 .over-btn a {
-    color: #000000;
+    color: white;
     font-size: 17px;
     font-family: pb;
 }
